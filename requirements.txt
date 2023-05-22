@@ -1,4 +1,4 @@
-requests==2.22.0
+requests==2.31.0
 beautifulsoup4==4.8.1
 func==0.12
 keras==2.3.1
